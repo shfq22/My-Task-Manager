@@ -1,6 +1,6 @@
 # Task Manager - Full Stack Application
 
-A full-stack task management system built with **MERN (MongoDB, Express, React, Node.js)** and styled using **Tailwind CSS**. It includes **role-based access**, task assignment with file uploads, and robust filtering capabilities. Designed for both admin and regular users.
+A complete full-stack task management application built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. It features role-based access control, task assignment with file uploads, and advanced filtering options — providing an efficient workflow for both admins and regular users.
 
 ---
 
@@ -111,6 +111,6 @@ Full Postman documentation for testing all endpoints:
 
 ## 🙌 Author
 
-**Satvic Bajpai**
-Email: [satvicbajpai@gmail.com](mailto:satvicbajpai@gmail.com)
-GitHub: [bajpaisatvic](https://github.com/bajpaisatvic)
+**Shafaque Jamal**
+Email: [shafaque](mailto:shafaque2022@gmail.com)
+GitHub: [shfq](https://github.com/shfq22/My-Task-Manager)
